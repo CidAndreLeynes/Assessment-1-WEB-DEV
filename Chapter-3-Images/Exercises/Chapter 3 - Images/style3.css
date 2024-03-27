@@ -1,0 +1,5 @@
+.image-container figure img {
+    filter: saturate(1.5); /* Increase saturation */
+    /* Add more filters here as desired (e.g., blur, brightness) */
+  }
+  
