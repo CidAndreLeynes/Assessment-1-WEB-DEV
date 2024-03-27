@@ -1,0 +1,42 @@
+body {
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #fff;
+    background-image: url('img/chocolate\ chip\ cookies.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    background-color: #000;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #000;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+ol, ul {
+    list-style: decimal;
+    margin-top: 0;
+    padding-left: 30px;
+}
+
+li {
+    margin-bottom: 10px;
+}

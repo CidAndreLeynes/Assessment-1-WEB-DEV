@@ -1,0 +1,226 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Heading Styles */
+h1 {
+    font-size: 36px;
+    margin-bottom: 60px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+h4 {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+h5 {
+    font-size: 12px;
+    margin-bottom: 6px;
+}
+
+h1, h2, h3, h4, h5 {
+    text-transform: uppercase;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Code Styles */
+pre {
+    background-color: #eee;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Div Container Styles */
+div {
+    margin: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f5f5f5;
+    box-shadow: 0px 2px 5px #ccc;
+}
+
+/* Section Styles */
+section {
+    font-size: 18px;
+}
+
+.section p {
+    margin-bottom: 20px;
+}
+
+/* Clearfix Styles */
+.clearfix:before, .clearfix:after {
+    content: "";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    zoom: 1; /* For IE 6/7 (trigger hasLayout) */
+}
+
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Heading Styles */
+h1 {
+    font-size: 36px;
+    margin-bottom: 60px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+h4 {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+h5 {
+    font-size: 12px;
+    margin-bottom: 6px;
+}
+
+h1, h2, h3, h4, h5 {
+    text-transform: uppercase;
+}
+
+/* Code Styles */
+pre {
+    background-color: #eee;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Container Div Styles */
+div {
+    margin: 15px;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: #f5f5f5;
+    box-shadow: 0px 2px 5px #ccc;
+}
+
+/* List of Tag Styles */
+ul {
+    list-style-type: none;
+    margin: 0px;
+    overflow: hidden;
+    padding: 0px;
+}
+
+li {
+    margin-top: 10px;
+}
+
+/* Text Styles */
+p {
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}
+
+h1 {
+    font-size: 24px;
+    margin: 15px 0;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 14px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 12px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+h5 {
+    font-size: 10px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+.column {
+    padding: 0 20px;
+    display: block;
+    width: 50%;
+}
+
+.footer {
+    background-color: #333;
+    color: #f5f5f5;
+    padding: 10px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.footer a {
+    color: #f5f5f5;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    background-color: #333;
+    color: #f5f5f5;
+}
+
+.header {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+}
